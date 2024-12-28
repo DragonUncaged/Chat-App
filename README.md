@@ -19,25 +19,25 @@
 
 ## Screenshots
 **Sign up**
-![Sign up](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146231/lxipjhn3pdvkf5h6it98.png)
+![Sign up](https://github.com/user-attachments/assets/f3a02d21-2232-4478-afcb-a741ca9a4601)
 
 **Sign in**
-![Sign In](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146246/pntbaaigxkup1puqgjwa.png)
+![Sign In](https://github.com/user-attachments/assets/b318ce7e-9f9e-40fa-afde-4ed40c20682f)
 
 **Home**
-![home](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146043/p7obaxsyrz5l074jkyj7.png)
+![home](https://github.com/user-attachments/assets/e1ab1591-5f27-4968-9fed-ebc77e94eb7b)
 
 **Users Chat**
-![home](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689145934/ipqp3jb0qyb32nip6osj.png)
+![User Chat](https://github.com/user-attachments/assets/6b96ed4d-9650-48a0-8ad8-a87d4ed7f002)
 
 **Notfication**
-![notification](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146057/b85aapingyke67r41vvb.png)
+![notification](https://github.com/user-attachments/assets/4c9988f1-dd09-45a5-884d-44ab20f803bb)
 
 **Group Information**
-![group_information](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689145976/bd8wyctt2tw4ukgwuoht.png)
+![group_information](https://github.com/user-attachments/assets/e7846305-6144-43a3-9551-3be564c3bddf)
 
 **Change Group Name Only For Admin**
-![rename](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146017/da8y031jf7twpxlp2ipy.png)
+![rename](https://github.com/user-attachments/assets/5742b0c5-3e24-49a7-a0f3-9bb17a542f7c)
 
 **Remove User From Group Only For Admin**
-![remove_user](https://res.cloudinary.com/dfrhy6m3m/image/upload/v1689146005/ymitbkdkz2mlfvrb9gvl.png)
+![remove_user](https://github.com/user-attachments/assets/c8b6ddf0-fb05-41f1-a316-e9526de5d0ee)
